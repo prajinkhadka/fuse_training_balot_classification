@@ -18,3 +18,5 @@ Results are Summarized in this presentation : [Results Presentation](https://doc
 Download the saved Model from here - 
 
 Run " fuse_training_balot_classification/out/model/model_type/load_predict.py " , with checkpointbest.pth in same directory.
+
+Download saved model from here : [Saved Model](https://drive.google.com/open?id=1JUQwy_v7KpSGxzzw3SlRynT8Zre5Ov3f)
