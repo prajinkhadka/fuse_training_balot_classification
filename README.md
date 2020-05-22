@@ -35,7 +35,9 @@ e.g. virtualenv -p "C:\Python37_64\python.exe" balot_class
 
 ### For training in GPU with Colab 
 
-Run [RenNet18](https://github.com/prajinkhadka/fuse_training_balot_classification/blob/master/notebooks/resnet_balot_final.ipynb) in Google Colab ( with GPU instance Enabled )
+Run [RenNet18](https://colab.research.google.com/drive/1m1Bg_4D1-U3PorB87vX5lqmeUCuv9TIL) in Google Colab ( with GPU instance Enabled )
+
+More Instructions are in the notebook itself.
 
 It will save the trained model as "checkpoint.pth" in the Currrect colab directory which will be recylced by colab in next runtime. Download it for further use.
 
