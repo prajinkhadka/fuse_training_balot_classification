@@ -1,0 +1,9 @@
+numpy
+pandas 
+torch
+torchvision
+Pillow==2.2.2
+torch-utils
+torchutils
+matplotlib
+
