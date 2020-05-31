@@ -46,7 +46,7 @@ A Balot Paper Classification project.   [Slides](https://docs.google.com/present
  
 **Install Dependencies**:
 
-		pip install -r requirement.txt 
+		pip install -r requirements.txt 
 
 
 ### fuse Training Balot Classification - Summary
